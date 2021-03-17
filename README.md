@@ -28,6 +28,4 @@ I'm @YourAnonS0u1, Welcome to my github!
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=HLoTW)](https://github.com/ryo-ma/github-profile-trophy)
 
-<center>
 ![YourAnonS0u1](https://github.com/HLoTW/HLoTW/blob/main/s0u1.gif?raw=true)
-    </center>

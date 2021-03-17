@@ -1,4 +1,4 @@
-![C2Xt](https://i.gifer.com/C2Xt.gif?raw=true)
+![C2Xt](https://i.gifer.com/C2Xt.gif)
 
 ### Hi there 👋
 I'm @YourAnonS0u1, Welcome to my github! 

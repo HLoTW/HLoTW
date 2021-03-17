@@ -1,4 +1,4 @@
-![C2Xt](.gif)
+![YourAnonS0u1](https://github.com/HLoTW/HLoTW/blob/main/youranons0u1.gif?raw=true)
 
 ### Hi there 👋
 I'm @YourAnonS0u1, Welcome to my github! 
